@@ -1,0 +1,12 @@
+{
+    "replace":false,
+    "values": [
+        "magistuarmory:steel_ingot",
+        "magistuarmory:steel_nugget",
+        "magistuarmory:steel_ring",
+        "magistuarmory:steel_chainmail",
+        "magistuarmory:steel_plate",
+        "magistuarmory:small_steel_plate",
+        "magistuarmory:lamellar_rows"
+    ]
+}

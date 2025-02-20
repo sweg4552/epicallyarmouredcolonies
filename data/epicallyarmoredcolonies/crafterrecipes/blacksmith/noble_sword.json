@@ -1,0 +1,21 @@
+{
+    "type": "recipe",
+    "crafter": "blacksmith_crafting",
+    "inputs": [
+        {
+          "id": "magistuarmory:iron_bastardsword"
+        },
+        {
+          "id": "magistuarmory:gilding_template"
+        },
+        {
+          "id": "minecraft:gold_ingot"
+        }
+      ],
+    "intermediate": "minecraft:air",
+    "min-building-level": 4,
+    "result": {
+      "id": "magistuarmory:noble_sword"
+    }
+  }
+  
